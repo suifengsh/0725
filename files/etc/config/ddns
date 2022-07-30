@@ -1,0 +1,12 @@
+config ddns 'global'
+	option ddns_dateformat '%F %R'
+	option ddns_loglines '250'
+	option upd_privateip '0'
+
+config service 'ORAY'
+	option service_name 'oray.com'
+	option enabled '1'
+	option lookup_host 'smartboysh.iask.in'
+	option domain 'smartboysh.iask.in'
+	option username 'suifeng321'
+	option password 'Zxcvbnm321'

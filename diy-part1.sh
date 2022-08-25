@@ -16,4 +16,6 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-sed -i '$a src-git smpackage https://github.com/kenzok78/small-package' feeds.conf.default
+#sed -i '$a src-git smpackage https://github.com/kenzok78/small-package' feeds.conf.default
+sed -i '$a src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' feeds.conf.default
+    

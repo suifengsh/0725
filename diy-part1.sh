@@ -17,7 +17,4 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
-echo 'src-git openadg https://github.com/sirpdboy/sirpdboy-package/tree/main/adguardhome' >>feeds.conf.default
-echo 'src-git opennetdata https://github.com/sirpdboy/luci-app-netdata' >>feeds.conf.default
-echo 'src-git openspeed https://github.com/sirpdboy/netspeedtest' >>feeds.conf.default
-echo 'src-git opentopd https://github.com/sirpdboy/luci-theme-opentopd' >>feeds.conf.default
+echo 'src-git open111 https://github.com/suifengsh/sirpdboy-package' >>feeds.conf.default
